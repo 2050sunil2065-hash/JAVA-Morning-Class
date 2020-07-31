@@ -17,6 +17,7 @@ public class WhileLoopDemo2 {
 			}
 		}
 		System.out.println("Exit");
+	input.close();
 	}
-
+	
 }

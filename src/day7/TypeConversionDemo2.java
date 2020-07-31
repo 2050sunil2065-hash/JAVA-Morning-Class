@@ -26,7 +26,7 @@ System.out.println("Area is:"+ area);
 Math.pow(4, 2);
 input.close();
 int temp = (int) a;
-double b;
+double b=0;
 a = b;
 b = temp;
 
