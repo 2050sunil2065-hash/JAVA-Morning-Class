@@ -9,8 +9,12 @@ public class MethodDemo3 {
 		int a = input.nextInt();
 		System.out.println("Enter b:");
 		int b = input.nextInt();
+		input.close();
+		
 		int sum = a + b;
 		return sum + 1;
+		
+	
 	}
 
 	public static void main(String[] args) {

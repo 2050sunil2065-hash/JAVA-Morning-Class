@@ -7,7 +7,7 @@ public class SwitchCase {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter your choice");
-		char choice =  input.next.();
+		char choice =  input.next().charAt(0);
 		
 		switch(choice) {
 		
